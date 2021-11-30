@@ -1,0 +1,14 @@
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\bin\Debug\netcoreapp3.1\SobeS.exe
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\bin\Debug\netcoreapp3.1\SobeS.deps.json
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\bin\Debug\netcoreapp3.1\SobeS.runtimeconfig.json
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\bin\Debug\netcoreapp3.1\SobeS.runtimeconfig.dev.json
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\bin\Debug\netcoreapp3.1\SobeS.dll
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\bin\Debug\netcoreapp3.1\SobeS.pdb
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.csproj.AssemblyReference.cache
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.GeneratedMSBuildEditorConfig.editorconfig
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.AssemblyInfoInputs.cache
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.AssemblyInfo.cs
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.csproj.CoreCompileInputs.cache
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.dll
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.pdb
+C:\курсачи и лабы\Programirovanie\c#\SobeS\SobeS\obj\Debug\netcoreapp3.1\SobeS.genruntimeconfig.cache
