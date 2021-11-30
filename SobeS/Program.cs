@@ -317,10 +317,20 @@ namespace SobeS
             //foreach (string s in sel)
             //    Console.WriteLine(s);
             #endregion
-            int key = 678;
-            int[] zxc = {1, 2, 3, 4, 9, 5, 45, 11, 87, 42, 9, 64, 23, 5, 678};
-            Console.WriteLine(Rank(key, zxc));
-            
+
+            var tree = new BinaryTree<int>();
+            tree.Add(5);
+            tree.Add(3);
+            tree.Add(7);
+            tree.Add(1);
+            tree.Add(2);
+            tree.Add(8);
+            tree.Add(6);
+            tree.Add(9);
+            foreach (var item in tree.InOrder())
+            {
+                Console.Write(item + ", ");
+            }
         }
     }
 }
